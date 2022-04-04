@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "vue-uuid": "^3.0.0"
+  }
+}
